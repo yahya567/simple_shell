@@ -1,5 +1,10 @@
 # This file lists all individuals having contributed content to the repository.
 # For how it is generated, see `hack/generate-authors.sh`.
 
+<<<<<<< HEAD
 Yahya Mohammed <yahiyamohammed455@gmail.com>
 Bektu Gudeta <bektugudeta@gmail.com>
+=======
+Yahya Mohammed. <yahiyamohammed455@gmail.com>
+Bektu Gudeta <bekitasweet.2013@gmail.com>
+>>>>>>> 9b556ca922bc29b32ee97c197c62d8e64bb8af11
